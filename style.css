@@ -211,12 +211,12 @@ footer p{
         height: 150px;
     }
     #txt1,#txt2{
-        font-size: 30px;
-        font-weight: 800;
-        margin-left:150px;
+        font-size: 25px;
+        font-weight: 700;
+        margin-left:130px;
     }
     #txt1{
-        margin-left: 180px;
+        margin-left: 160px;
     }
     .gif{
         height: 30px;
@@ -248,4 +248,7 @@ footer p{
     margin-bottom: 30px;
     font-size: 30px;
    }
+	footer p{
+	font-size:15px;
+	}
   }
